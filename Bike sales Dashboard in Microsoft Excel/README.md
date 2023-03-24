@@ -20,3 +20,9 @@ To visualize the cleaned data, I created three pivot tables and three charts:
 To make the dashboard more interactive, I added three slicers allowing users to filter the data by marital status, region, and education. All the charts and pivot tables on the dashboard are linked to these slicers, allowing users to see how the data changes based on their selections.
 
 Overall, this Excel dashboard demonstrates my ability to clean and transform data, and to create visually appealing and informative charts and pivot tables using Microsoft Excel.
+
+## Preview
+
+![Preview](https://github.com/JFrank510/Dashboards_Portfolio/blob/main/Bike%20sales%20Dashboard%20in%20Microsoft%20Excel/Preview.png?raw=true)
+
+
